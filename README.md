@@ -1,8 +1,10 @@
 ## oh, hi Mark(down) 👋
 
-### my flagship projects 🎏🚢
+### my projects
+ - [Pipenv publisher](https://github.com/kpostekk/pipenv-publisher), tools for integrating `Pipenv` and `setuptools`. Useful for libraries developers.
  - [Ez cliy](https://github.com/kpostekk/ezcliy), framework for creating cmd tools, an alternative for click, argparse, etc.
- - > and some private, ask in DMs
+ - [alwaysconf](https://github.com/kpostekk/alwaysconf), small library for creating config files in seconds.
+ - > and some private specials, ask in DMs
 
 ### ✨ favourite tech ✨
  - Swift 5
