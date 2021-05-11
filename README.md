@@ -12,11 +12,11 @@
  - Docker (w/ docker-compose ofc)
  - Realm DB
  - Google Cloud
+ - TypeScript w/ React
+ - Deno/NodeJS
 
 ### learning 🏫
  - React.js (w/ next.js and some other frameworks)
- - Kotlin
- - Powershell (7.x)
  
 ### also, know how to
  - basic audio mastering
